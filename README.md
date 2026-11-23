@@ -9,8 +9,6 @@
 
 **Dataset Link:** https://www.kaggle.com/competitions/loan-eligibility-prediction/data
 
-**GitHub Repository:** https://github.com/snehajangid/Loan_Prediction
-
 ### Dataset Description
 The dataset contains information about loan applicants, including their education, income, employment status, credit history, loan amount, and property area.
 
